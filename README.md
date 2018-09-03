@@ -5,11 +5,7 @@
 
 This is the first project in the Udacity Deep Reinforcement Learning Nanodegree program.    You may duplicate the project results by following instructions stated below.
 
-The learning objective of this project is to train an agent to collect bananas by using Deep Q network.       A trained agent should navigate its environment as shown in the image below.
-
-!![Trained Agent]()
-
-The goal is to collect as many yellow bananas as possible while avoid blue bananas.  A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  
+The learning objective of this project is to train an agent to collect bananas by using Deep Q network.   The goal is to collect as many yellow bananas as possible while avoid blue bananas.  A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around agent's forward direction.  Given this information, the agent has to learn how to best select actions.  Four discrete actions are available, corresponding to:
 - **`0`** - move forward.
